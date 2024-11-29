@@ -1,0 +1,27 @@
+[
+  {
+    "CompanyName": "HCL",
+    "Date": "15-09-2024",
+    "StudentsAppeared": "Vijay, Surya, Dinesh"
+  },
+  {
+    "CompanyName": "TCS",
+    "Date": "19-10-2024",
+    "StudentsAppeared": "Santhosh, Hari, Vijay"
+  },
+  {
+    "CompanyName": "CTS",
+    "Date": "28-10-2024",
+    "StudentsAppeared": "Praba, Vishwa, Ajay"
+  },
+  {
+    "CompanyName": "Zoho",
+    "Date": "11-11-2024",
+    "StudentsAppeared": "Kishore, Yuvaraj, Vicky"
+  },
+  {
+    "CompanyName": "Microsoft",
+    "Date": "01-11-2024",
+    "StudentsAppeared": "Siva, Deva, Shangar"
+  }
+]
